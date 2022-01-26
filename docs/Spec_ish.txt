@@ -1,0 +1,36 @@
+et system som tar imot og holder en mobil-telefon og 
+skal integrere mobiler bedre i en kontor sammenheng.
+
+Systemet skal:
+	-Holde mobil
+		-enkelt skalerbart og modulært design
+		-muligheten til å endten bytte ut en "bed"-plate med forskjellige varianter, 
+		 eller et universalt design.
+	-Lade mobil
+	
+	
+	-audio input/output
+		-håndtere lyd I/O (headsett etc) og dirigere fra og til hvor lyden skal
+		
+		-lyd skal kunne gå endten til/fra mobil eller PC
+	
+		-audio skal også kunne dirigeres til forskjellige outputer(pc/høytaler/headset)
+		 og mic-er(pc/ekstern/headset)
+		
+	
+	-medie
+		videre skal 
+
+
+
+
+Mulige nødvendige punkt/løsnings start
+
+	-Tilkoblinger:
+		- Bluetooth (headset)
+		- aux (headset/ekst mic/pc)
+		- usb (kjøre en "switchet" hub for pc og mobil, her kobles BT reciever etc)
+		- usb/lightning (mob tilkobling i "bed")
+		- 
+		-	
+	     

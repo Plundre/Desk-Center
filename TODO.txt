@@ -1,0 +1,54 @@
+TO DO
+
+Project
+	-Syncing of project files
+	-Setup Jira or similar
+
+Research
+	-File sync
+		-how is phone treated in usb connection to pc
+			-Who is host?
+
+	-Phone USB
+		-Test use of Usb Hub with phone
+			-does it easily handle several units?
+			-test with filesync stuff
+				-who is host? PC?
+
+Dev
+	-Audio Control Unit (ACU)
+		-System Block Diagram
+			-make detailed block diagram of ACU
+			 including outgoing relations
+
+		-Circuit
+			-Sketch broad circuit design
+			-Divide into specific circuit designs
+		-Chassis
+			-Sketch rough chasssis design 
+			 (remember modular design)
+			-continue rough sketch to 3D model, include:
+				-base model, ofc
+				-any circuit boards
+				-port/space for connectors
+
+		(-Software?)
+			-possible necessary control software
+
+	-Core Unit
+		-System Block Diagram
+			-Not much, mostly detail gathering relations
+			-include needed USB Hub etc (USB OTG??)
+
+		-Chassis
+			-sketch rough design, maybe take inspiration from Holder design
+				-How make modular? click in connections between modules? 
+				-accomodate Connectors
+			
+			-Continue rough sketch to 3D model
+				-import bought parts, like usb connectors etc
+
+
+
+
+Test
